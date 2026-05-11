@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+python-dotenv
+langchain
+langchain-core
+langchain-anthropic
+langchain-community
+langchain-experimental
+faiss-cpu
+fastembed
+onnxruntime

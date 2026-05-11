@@ -179,3 +179,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Claude Code settings
+.claude/
+
+# Generated FAISS vector indices (rebuilt automatically on first run)
+faiss_sales_index/
+faiss_knowledge_index/
+
+# Generated plot images
+*.png
